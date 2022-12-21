@@ -33,11 +33,11 @@ developing, Cross-validation, Optimization, ....
 - Databases tools: MySQL, PostgreSQL.
 - Knowledge of cloud platform: **AWS**, GCP.
 
-- 🌱 Contact me via:   
+# 📫 Contact me via:   
   +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/neikyllykien): [Kien Ly](https://www.facebook.com/neikyllykien/)
   +  📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](kienlytrung98@gmail.com): [kienlytrung98@gmail.com](mailto:kienlytrung98@gmail.com)  
 
-# Status
+# 🌱 Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neikyllykien)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neikyllykien&show_icons=true&count_private=true)
 # Stacks
