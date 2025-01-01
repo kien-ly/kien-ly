@@ -22,16 +22,17 @@ Here are some ideas to get you started:
 # About
 I am a Masters student at [**Ho Chi Minh City University of Technology (HCMUT)**](https://hcmut.edu.vn/) aka **Bach Khoa University** and Data engineer at **FPT-Software**.
 
+**Data engineering skills:**
+- Frameworks: Apache Airflow, Kafka, Spark, Hadoop, Superset,...
+- Databases: MySQL, PostgreSQL, 
+- Knowledge of cloud platform: **AWS**, Azure, GCP, Snowflake, Databricks,...
+
 **Machine learning skills:**
 - Data analysis and feature engineering skills, ML Algorithms selection, Metric understanding and
 developing, Cross-validation, Optimization, ....
 - Frameworks: Pytorch, Tensorflow, Sklearn.
 
-**Data engineering skills:**
-- Knowledge of database architecture and designing data pipeline.
-- Frameworks: Apache Airflow, Kafka, Spark, Hadoop, Superset,...
-- Databases tools: MySQL, PostgreSQL.
-- Knowledge of cloud platform: **AWS**, GCP.
+
 
 # 📫 Contact me via:   
   +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/neikyllykien): [Kien Ly](https://www.facebook.com/neikyllykien/)
@@ -40,6 +41,7 @@ developing, Cross-validation, Optimization, ....
 # 🌱 Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kien-ly)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kien-ly&show_icons=true&count_private=true)
+
 # Stacks
 <div align="left">
   <img width="35" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/> 
