@@ -35,8 +35,9 @@ developing, Cross-validation, Optimization, ....
 
 
 # 📫 Contact me via:   
-  +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/neikyllykien): [Kien Ly](https://www.facebook.com/neikyllykien/)
-  +  📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](kienly.work@gmail.com): [kienly.work@gmail.com](mailto:kienly.work@gmail.com)  
+  +  📫 [Facebook: Kien Ly](https://www.facebook.com/neikyllykien/)
+  +  📫 [Gmail: kienly.work@gmail.com](mailto:kienly.work@gmail.com)
+  +  📫 [LinkedIn: /neikyllykien](https://www.linkedin.com/in/neikyllykien/)  
 
 # 🌱 Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kien-ly)](https://git.io/streak-stats)
