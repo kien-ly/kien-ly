@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 # About
-I am a Masters student at [**Ho Chi Minh City University of Technology (HCMUT)**](https://hcmut.edu.vn/) aka **Bach Khoa University** and Data engineer at **FPT-Software**.
+I am a Data engineer
 
 **Data engineering skills:**
 - Frameworks: Apache Airflow, Kafka, Spark, Hadoop, Superset,...
